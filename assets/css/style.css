@@ -84,3 +84,8 @@ ul li:nth-child(6) {
     background: #e9b5e3;
     box-shadow: 0 0 80px #a308a3, 0 0 80px #a308a3, 0 0 80px #a308a3;
 }
+
+ul li:hover {
+    background: #9b9b9b;
+    box-shadow: none;
+}
